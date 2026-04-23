@@ -52,7 +52,7 @@ Payroll-System/
 ➤ Step 1: Install Python (if not installed)
 
 ➤ Step 2: Clone the repository
-git clone (https://github.com/Niharika-Sharmaa/Python-Project.git)
+git clone (https://github.com/Niharika-Sharmaa/Python-Project-Showcase.git)
 
 ➤ Step 3: Navigate to the folder
 cd payroll-system
