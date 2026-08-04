@@ -1,92 +1,117 @@
-💼 Advanced Employee Payroll & Tax Management System
-📌 Overview
+# 🐍 Python Project Showcase
 
-This project is a Python-based Object-Oriented Payroll Management System designed for a mid-sized organization. It efficiently manages employee salary calculations, supports multiple employee types, and generates automated salary slips.
+## 📌 Overview
 
-The system demonstrates key OOP concepts such as Inheritance, Encapsulation, and Exception Handling.
+This repository contains Python projects built to strengthen programming fundamentals through real-world applications. The projects demonstrate Object-Oriented Programming, Cryptography, File Handling, Exception Handling, and Problem Solving.
 
-✨ Features
+---
 
-➤ 👨‍💼 Multiple Employee Types Supported
-    ▸ Permanent Employee
-    ▸ Contract Employee
-    ▸ Intern
+## 📂 Projects
 
-➤ 🧮 Automated Salary Calculation
-    ▸ Based on Basic Salary
-    ▸ DA (92%)
-    ▸ HRA (58%)
-    ▸ TA (30%)
+### 💼 Advanced Employee Payroll & Tax Management System
 
-➤ 📄 Salary Slip Generation
-    ▸ Monthly .txt file for each employee
+A Python-based payroll system that automates employee salary calculation and generates salary slips.
 
-➤ ⚠️ Robust Error Handling
-    ▸ Prevents negative salary input
-    ▸ Handles file permission issues
+**✨ Features**
 
-🧠 OOP Concepts Used
+➤ Multiple Employee Types (Permanent, Contract, Intern)
 
-✦ Classes & Objects
-✦ Inheritance
-✦ Method Reusability
+➤ Automated Salary Calculation (DA, HRA, TA)
+
+➤ Salary Slip Generation (.txt)
+
+➤ Exception Handling & Input Validation
+
+**🧠 Concepts Used**
+
+✦ OOP (Classes, Inheritance, Encapsulation)
+
+✦ File Handling
+
 ✦ Exception Handling
 
-⚙️ Salary Calculation Formula
+---
 
-➤ DA = 0.92 × Basic
-➤ HRA = 0.58 × Basic
-➤ TA = 0.30 × Basic
+### 🔐 Cryptography Toolkit
 
-➤ Gross Salary = Basic + DA + HRA + TA
+A menu-driven Python application implementing classical encryption and decryption algorithms.
 
-🏗️ Project Structure
-Payroll-System/
-│── main.py
-│── README.md
-│── Yukti_salary.txt
-│── Suhani_salary.txt
-│── Niharika_salary.txt
-🚀 How to Run the Project
+**✨ Supported Ciphers**
 
-➤ Step 1: Install Python (if not installed)
+➤ Caesar Cipher
 
-➤ Step 2: Clone the repository
-git clone (https://github.com/Niharika-Sharmaa/Python-Project-Showcase.git)
+➤ Vigenère Cipher
 
-➤ Step 3: Navigate to the folder
-cd payroll-system
+➤ Rail Fence Cipher
 
-➤ Step 4: Run the program
+➤ Playfair Cipher
+
+➤ Columnar Transposition
+
+➤ Double Columnar Transposition
+
+➤ Affine Cipher
+
+➤ Baconian Cipher
+
+➤ Bifid Cipher
+
+**🧠 Concepts Used**
+
+✦ Classical Cryptography
+
+✦ String Manipulation
+
+✦ Modular Arithmetic
+
+✦ Matrix Operations
+
+✦ Exception Handling
+
+---
+
+## 🚀 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Niharika-Sharmaa/Python-Project-Showcase.git
+```
+
+Navigate to the desired project folder and run:
+
+```bash
 python main.py
+```
 
-🧪 Sample Output
-Employee Salary Slip
+or
 
-ID: 101
-Name: Yukti
-Basic Salary: 30000
-DA: 27600.0
-HRA: 17400.0
-TA: 9000.0
-Gross Salary: 84000.0
+```bash
+python cryptography_toolkit.py
+```
 
-⚠️ Error Handling
+---
 
-➤ Prevents invalid (negative) salary input
-➤ Handles file writing errors (file open / permission issues)
+## 🚀 Future Enhancements
 
-🚀 Future Enhancements
+✧ GUI Interface
 
-✧ Add Tax Deduction System
-✧ GUI using Tkinter or Web Interface
-✧ Database integration (MySQL / SQLite)
-✧ Full Employee Management Dashboard
+✧ Database Integration
 
-👩‍💻 Author
+✧ File Encryption
 
-Niharika Sharma
+✧ Modern Cryptography Algorithms
 
-📜 License
+✧ Additional Python Projects
 
-This project is for educational purposes.
+---
+
+## 👩‍💻 Author
+
+**Niharika Sharma**
+
+---
+
+## 📜 License
+
+This repository is created for educational and learning purposes.
