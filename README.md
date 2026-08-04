@@ -81,13 +81,13 @@ git clone https://github.com/Niharika-Sharmaa/Python-Project-Showcase.git
 Navigate to the desired project folder and run:
 
 ```bash
-python main.py
+Advanced Payroll & Tax Management System.py
 ```
 
 or
 
 ```bash
-python cryptography_toolkit.py
+Cryptography Toolkit.py
 ```
 
 ---
