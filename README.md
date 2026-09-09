@@ -134,46 +134,6 @@ The website demonstrates how a terrain image can be recursively divided into sma
 
 ---
 
-## 🚀 How to Run
-
-### 🐍 Python Projects
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Niharika-Sharmaa/Python-Project-Showcase.git
-```
-
-Navigate to the desired Python project folder and run the `.py` file:
-
-```bash
-python "Advanced Payroll & Tax Management System.py"
-```
-
-or
-
-```bash
-python "Cryptography Toolkit.py"
-```
-
-### 🌐 HTML / CSS / JavaScript Project
-
-Navigate to the **Terrain Quadtree Website** project folder.
-
-Open:
-
-```text
-index.html
-```
-
-in a web browser.
-
-For the best experience, use **Live Server** in VS Code.
-
-No backend, npm installation, or additional setup is required.
-
----
-
 ## 📈 Skills Demonstrated
 
 ✦ Python Programming
@@ -200,30 +160,6 @@ No backend, npm installation, or additional setup is required.
 
 ---
 
-## 🚀 Future Enhancements
-
-✧ GUI Interfaces for Python Applications
-
-✧ Database Integration
-
-✧ Advanced Cryptography Algorithms
-
-✧ Modern Web-Based Visualizations
-
-✧ More Image Processing Projects
-
-✧ Additional Python & Web Development Projects
-
----
-
 ## 👩‍💻 Author
 
 **Niharika Sharma**
-
-Computer Science Engineering Student
-
----
-
-## 📜 License
-
-This repository is created for **educational and learning purposes**.
